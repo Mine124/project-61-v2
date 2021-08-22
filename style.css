@@ -1,0 +1,50 @@
+body {
+    background-color: crimson;
+    text-align: center;
+}
+
+.A1 
+{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    position: absolute;
+}
+
+.C1:hover
+{
+    background-color: aqua;
+}
+.C1
+{
+    float: left;
+    margin: 10px;
+    font-family: Georama;
+    color: black;
+}
+
+#Aa1
+{
+    padding-top: 100px;
+}
+
+#id
+{
+    height: 400px;
+    width: 700px
+}
+
+#Tanqr, #MiniBloxia
+{
+    width: 200px;
+    height: 250px;
+}
+
+#Tanqr:hover, #MiniBloxia:hover
+{
+    transform: scale(0.9)
+}
